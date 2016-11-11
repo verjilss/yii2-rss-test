@@ -1,0 +1,21 @@
+{
+    "name": "verjilss/yii2-rss-test",
+    "description": "create rss use by array or db query data TEST",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Verjilss",
+            "email": "verjilss@verjilss.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "verjilss\\rss\\": ""
+        }
+    }
+}
